@@ -9,8 +9,8 @@ category's subcategories but *do not* belong to the category itself.
 
 == Compatibility ==
 
-Just One Category has only been tested against WordPress version 1.5.1.2 but 
-should work with any version of WordPress greater than or equal too 1.5.
+Just One Category has been tested against WordPress versions 1.5.1.2 and 1.5.2
+but should work with any version of WordPress greater than or equal too 1.5.
 (Why not <a href="http://wordpress.org/download/">upgrade</a>, though?)
 
 == Installation ==
