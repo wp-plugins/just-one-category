@@ -1,8 +1,9 @@
 === Just One Category ===
-Tags: category, archive, exclude
-Requires: 2.3
-Tested up to: 2.6
 Contributors: mdawaffe
+Tags: category, archive, exclude
+Requires at least: 2.3
+Tested up to: 2.6
+Stable tag: 1.0
 
 Just One Category will cause WordPress to display on a category archive page 
 *only* those posts which are direct members of that category, i.e. this plugin 
