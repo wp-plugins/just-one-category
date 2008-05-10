@@ -21,6 +21,6 @@ category's subcategories but *do not* belong to the category itself.
 <a href="http://codex.wordpress.org/Changing_File_Permissions">File Permissions</a> 
 to be read by your web server (you probably don't have to worry about this step).
 3. Activate the plugin ('Just One Category') from your 
-<a href="http://codex.wordpress.org/Managing_plugins">Plugin Manager</a> in your
+<a href="http://codex.wordpress.org/Managing_Plugins">Plugin Manager</a> in your
 <a href="http://codex.wordpress.org/Administration_Panels">Administration Panels</a>.
 4. That should be it.  No plugin configuration is necessary.
