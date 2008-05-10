@@ -5,6 +5,10 @@ Requires at least: 2.3
 Tested up to: 2.6
 Stable tag: 1.0
 
+On a category's archive page, displays only the posts directly in that category, not in any sub-categories.
+
+== Description ==
+
 Just One Category will cause WordPress to display on a category archive page 
 *only* those posts which are direct members of that category, i.e. this plugin 
 will exclude from that category page all posts which belong to any of that 
