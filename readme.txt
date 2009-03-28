@@ -2,7 +2,7 @@
 Contributors: mdawaffe
 Tags: category, archive, exclude
 Requires at least: 2.3
-Tested up to: 2.6
+Tested up to: 2.8
 Stable tag: 1.0
 
 On a category's archive page, displays only the posts directly in that category, not in any sub-categories.
